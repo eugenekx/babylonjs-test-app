@@ -118,7 +118,6 @@ function loadPlayer(
             cc.setWalkBackAnim("walkBack", 0.5, true);
             cc.setIdleJumpAnim("idleJump", 0.5, false);
             cc.setRunJumpAnim("runJump", 0.6, false);
-            cc.setFallAnim(null, 2, false);
             cc.setSlideBackAnim("slideBack", 1, false);
 
             cc.start();
